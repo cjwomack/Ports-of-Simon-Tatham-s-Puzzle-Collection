@@ -1,4 +1,4 @@
-# Ports-of-Simon-Tatham-s-Puzzle-Collection
+# Ports of Simon Tatham's Puzzle Collection
 
 git clone https://git.tartarus.org/simon/puzzles.git</br></br>
 [https://www.chiark.greenend.org.uk/~sgtatham/puzzles/](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)</br></br>
