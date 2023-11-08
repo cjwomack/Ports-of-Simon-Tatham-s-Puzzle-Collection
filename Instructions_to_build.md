@@ -1,6 +1,8 @@
 Here are some instructions I worked out to compile for Mac - Mac isn't my daily driver so excuse any mistakes. I did volunteer by email to compile this since Mr Tatham's Mac has died but I have not received a response. </br></br>
 Perhaps because I didn't realised that Debian had already had a .deb for his puzzles it made me sound stupid as I have pulled out a old PPC Powerbook to practise cross-compiling, study has been in bioinformatics so less depth as Comp Sci student though continuing studies in Comp Sci
 
+**Worked Under Mac OS X Catalina**
+
 1. install cmake via macports (potentially you need to install more dependencies, previously I have install octave via macports so perhaps gtk or clang or gcc have been downloaded from this)
   sudo port install cmake
 
