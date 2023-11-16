@@ -15,10 +15,10 @@ git clone --recursive https://git.tartarus.org/simon/halibut.git
 6. download games
 git clone https://git.tartarus.org/simon/puzzles.git
 7. Find the last commit id
-   cd puzzles/.git/info
+   cd puzzles/.git/info </br>
    git log --oneline -n 1
 8. change the version number to "YYYYMMDD.#lastcommitid" instead "Unidentified build" of in version.h 
-   cd ../../
+   cd ../../</br>
    vim version.h
 9. cmake .
 10. cmake --build .
